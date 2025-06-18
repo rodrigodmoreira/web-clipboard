@@ -1,3 +1,6 @@
+#!/bin/bash
+# https://docs.docker.com/engine/install/debian/
+
 # Add Docker's official GPG key:
 apt-get update
 apt-get install ca-certificates curl
